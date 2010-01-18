@@ -1,6 +1,6 @@
 # Copyright (C) 2003-2005  Joshua Hoblitt
 #
-# $Id: ISO8601.pm,v 1.24 2007/04/11 01:18:51 jhoblitt Exp $
+# $Id: ISO8601.pm,v 1.25 2010/01/18 06:36:21 jhoblitt Exp $
 
 package DateTime::Format::ISO8601;
 
@@ -8,7 +8,7 @@ use strict;
 use warnings;
 
 use vars qw( $VERSION );
-$VERSION = '0.06';
+$VERSION = '0.07';
 
 use Carp qw( croak );
 use DateTime;
