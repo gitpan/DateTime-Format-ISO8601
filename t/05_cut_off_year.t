@@ -1,8 +1,6 @@
 #!/usr/bin/perl
 
 # Copyright (C) 2005  Joshua Hoblitt
-#
-# $Id: 05_cut_off_year.t,v 1.3 2007/04/11 01:11:42 jhoblitt Exp $
 
 use strict;
 use warnings;

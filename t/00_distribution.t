@@ -1,8 +1,6 @@
 #!/usr/bin/env perl
 
 # Copyright (C) 2005  Joshua Hoblitt
-#
-# $Id: 00_distribution.t,v 1.1 2007/04/11 01:17:16 jhoblitt Exp $
 
 use strict;
 use warnings FATAL => qw( all );

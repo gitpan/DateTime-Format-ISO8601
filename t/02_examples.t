@@ -1,8 +1,6 @@
 #!/usr/bin/perl
 
 # Copyright (C) 2003-2005  Joshua Hoblitt
-#
-# $Id: 02_examples.t,v 1.11 2010/01/18 06:36:23 jhoblitt Exp $
 
 use strict;
 use warnings;

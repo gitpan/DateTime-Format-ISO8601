@@ -1,8 +1,6 @@
 #!/usr/bin/perl
 
 # Copyright (C) 2005  Joshua Hoblitt
-#
-# $Id: 03_base_datetime.t,v 1.4 2007/04/11 01:11:42 jhoblitt Exp $
 
 use strict;
 use warnings;

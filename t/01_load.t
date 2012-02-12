@@ -1,8 +1,6 @@
 #!/usr/bin/perl
 
 # Copyright (C) 2003-2005  Joshua Hoblitt
-#
-# $Id: 01_load.t,v 1.5 2007/04/11 01:11:42 jhoblitt Exp $
 
 use strict;
 use warnings;
